@@ -1,6 +1,6 @@
 # Reconhecimento de Emoções na Fala - RAVDESS
 
-Este notebook Colab explora como entender as emoções transmitidas pela fala usando a base de dados RAVDESS.
+Este notebook explora como entender as emoções transmitidas pela fala usando a base de dados RAVDESS.
 
 ## O Que é RAVDESS?
 
